@@ -8,6 +8,7 @@ Allocate $10 million in aid by identifying and categorizing countries based on s
 - **Unsupervised Learning**: K-Means Clustering to group countries based on indicators.
 - **Data Cleaning**: Addressed missing and inconsistent data.
 - **Exploratory Analysis**: Visualized trends and clusters.
+- **PCA**: Used PCA to reduce Dimensionality
 
 ## Tools & Libraries
 - Python: Pandas, Matplotlib, Seaborn
